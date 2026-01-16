@@ -1,0 +1,1 @@
+import{S as r}from"./ScrollManager.BB1oFsBO.js";const o={intro:"#intro-spacer",work:"#work-section",about:"#about-section",contact:"#contact-section"},t=new r;t.sectionTrigger(0,o.intro);t.sectionTrigger(1,o.work);t.sectionTrigger(2,o.about);t.sectionTrigger(3,o.contact);
