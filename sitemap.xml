@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://alkebsi.github.io/</loc>
+    <loc>https://mkebsi.com/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://alkebsi.github.io/jellies/</loc>
+    <loc>https://mkebsi.com/jellies/</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://alkebsi.github.io/warm-nights/</loc>
+    <loc>https://mkebsi.com/warm-nights/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://mkebsi.com/leva-vanilla/</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
