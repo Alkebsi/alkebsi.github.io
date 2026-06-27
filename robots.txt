@@ -1,4 +1,9 @@
 User-agent: *
 Allow: /
 
+# Disallow crawlers from digging into standalone repos or client showcases
+Disallow: /thatOpenCompany/
+Disallow: /client-showcase/
+Disallow: /eskimi/
+
 Sitemap: https://mkebsi.com/sitemap.xml
